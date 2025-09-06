@@ -1,6 +1,4 @@
 
-  # EcoFinds Marketplace App
-https://www.figma.com/design/MF45CL7uFhcN4uABC5cksP/EcoFinds-Marketplace-App.
 
   ## Running the code
 
